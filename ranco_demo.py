@@ -366,7 +366,7 @@ if __name__ == '__main__':
 
 
 
-    MyCrawler = RestCrawler(folder_name='raw_data',
+    MyCrawler = RestCrawler(folder_name='Raw_data',
 
                             start_date='31/01/2010',
 
